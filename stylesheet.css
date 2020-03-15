@@ -9,14 +9,22 @@ p {
 h1 {
     font-family: "Impact", sans-serif;
     text-align: center;
-    color: yellowgreen;
-    background-color: brown;
+    color: orangered;
+    background-color: yellow;
 }
 img{
-    margin-left: 50px;
-    border: 2px solid black;
+    margin-left: 400px;
+    border: 2px solid red;
 }
 a {
+    margin-top: 2000px;
+    margin-left: 400px;
     text-decoration: none;
-    color: black;
+    color: red;
 }
+    h2 {
+        font-family: Impact, sans-serif;
+        text-align: center;
+        color: red; 
+        margin-bottom: 500px;
+    }
